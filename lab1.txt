@@ -1,0 +1,46 @@
+Alex Irish
+Lab 1 questions
+
+
+1. Name something you like about Python. Explain
+    I like the fact that things are generally more simple in python. It makes
+    writing my code much quicker as long as I know what I'm doing. I also really
+    like that I can test things real quick in the terminal. That helps write
+    code faster as well.
+
+2. Name something you dislike about Python. Explain
+    I don't like that there are two versions that are used. I've done a few things
+    in python before including a few Computer Vision labs for Hunter and I always
+    used Python 3. I did something weird with my python in your class one day though
+    trying to get one of your fancy testing things to work and it switched my 
+    default python version to 2 and I didn't realize that till the beginning of this
+    lab. The differences are pretty tiny but there were one or two things that I got
+    stuck on because of the different versions. How I took in input was one of those
+    things. I also don't like how for loops work. It's kind of neat to use the objects
+    in the list i'm iterating over directly, but I like to have my indexes. It took
+    me a little bit to figure out that I could use range().
+
+3. Did you enjoy this lab? WHat aspects did you like/dislike?
+    I did really enjoy this lab. I've never been very fond of any kind of regular
+    expression, but now that I have somem experience with using it, I think it's
+    kind of fun. The only thing I didn't like was the description of what you wanted
+    us to output. I had to go onto Piazza to figure out what you wanted but that
+    only added a minute or two to the work I put into this assignment.
+
+4. Approzimately how many hours did you spend on this lab?
+    I got to Cold Smoke Coffeea coffee at aryound 9 and finished the lab around 2. 
+    That includes me ordering my coffee and then later getting up and getting a 
+    bagel sandwich and eating it. It probably took 4 hours. I spent most of my time
+    figuring out how to use the re methods.
+
+5. Do you think you will use Python again? For what kind of projects?
+    I have no idea what kind of projects I want to do on my own. I haven't
+    really had any inspiration anywhere except for to make a scheduling application
+    for work. I'd like to not do it by hand but have everyone have their time
+    off and have even hours and I would like the assignment to be random. It seems
+    fairly simple, but I would have to learn to create some kind of GUI which
+    I really have no experience with.
+    If you have time could you email me or something and tell me what you would
+    suggest for creating an application like that? Also I would like to know 
+    what kind of projects I could do on my own for fun or how to find projects
+    that I would like to do.
